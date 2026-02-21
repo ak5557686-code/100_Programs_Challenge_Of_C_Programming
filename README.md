@@ -13,7 +13,9 @@ This repository is a dedicated record of my personal journey to solve *100 C pro
 **- Curriculum:** Based on the *12th Grade ICS (Pakistan)* textbook, BISE DG Khan board.
 ## 🛠️ Environment
 **Language:** C
+
 **Editor:** VS Code
+
 **- Compiler:** GCC (MinGW)
-**---**
+
 **Maintained by:** Hafiz Muhammad Ahsan Kaleem
