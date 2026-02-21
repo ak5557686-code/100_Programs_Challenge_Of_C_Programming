@@ -16,6 +16,6 @@ This repository is a dedicated record of my personal journey to solve *100 C pro
 
 **Editor:** VS Code
 
-**- Compiler:** GCC (MinGW)
+**Compiler:** GCC (MinGW)
 
 **Maintained by:** Hafiz Muhammad Ahsan Kaleem
